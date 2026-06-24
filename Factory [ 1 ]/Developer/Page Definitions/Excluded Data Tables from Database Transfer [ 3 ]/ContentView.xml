@@ -1,0 +1,102 @@
+<Content><Row ID="R1"><Col ID="R1C1" Width="12"><Part ID="Part0" Key="ETS.Lists.TsTable"><Parameters><![CDATA[{
+  "ColumnsJson": {
+    "Key": "",
+    "Value": "[]"
+  },
+  "RowCssClassExtraEx": {
+    "Key": "",
+    "Value": ""
+  },
+  "StatesJson": {
+    "Key": "",
+    "Value": "[]"
+  },
+  "RowIconCssEx": {
+    "Key": "",
+    "Value": ""
+  },
+  "RowColorEx": {
+    "Key": "",
+    "Value": ""
+  },
+  "AnchorNameEx": {
+    "Key": "",
+    "Value": ""
+  },
+  "ButtonsJson": {
+    "Key": "",
+    "Value": "[]"
+  },
+  "CssClassExtra": {
+    "Key": "",
+    "Value": ""
+  },
+  "Visible": {
+    "Key": "",
+    "Value": true
+  },
+  "RowUrlEx": {
+    "Key": "",
+    "Value": ""
+  },
+  "RowOnClientClickEx": {
+    "Key": "",
+    "Value": ""
+  },
+  "RowOnServerClick": {
+    "Key": "",
+    "Value": ""
+  },
+  "SelectedWhenField": {
+    "Key": "",
+    "Value": ""
+  },
+  "SelectedEqualsValue": {
+    "Key": "",
+    "Value": ""
+  },
+  "ShouldUseDataSourceSelectedIndex": {
+    "Key": "",
+    "Value": false
+  },
+  "WordWrap": {
+    "Key": "",
+    "Value": true
+  },
+  "RowEnabledEx": {
+    "Key": "",
+    "Value": ""
+  },
+  "HeightPx": {
+    "Key": "",
+    "Value": 0
+  },
+  "TopN": {
+    "Key": "",
+    "Value": -1
+  },
+  "SourceDataKey": {
+    "Key": "",
+    "Value": "Data.Tables"
+  },
+  "DataDashJson": {
+    "Key": "",
+    "Value": "[]"
+  },
+  "ShownInLg": {
+    "Key": "",
+    "Value": true
+  },
+  "ShownInMd": {
+    "Key": "",
+    "Value": true
+  },
+  "ShownInSm": {
+    "Key": "",
+    "Value": true
+  },
+  "ShownInXs": {
+    "Key": "",
+    "Value": true
+  }
+}]]></Parameters></Part></Col></Row></Content>
