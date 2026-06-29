@@ -158,5 +158,5 @@
 - PageDefinitionSectionGroupID
   -1
 
-- VisibleInNavigationKey
+- HideInNavigationKey
   
